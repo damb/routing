@@ -5,7 +5,7 @@ Why a Routing Service?
 ======================
 
 One of the aims of the
-`European Integrated Data Archive <http://www.orfeus-eu.org/eida/eida.html>`_
+`European Integrated Data Archive <http://www.orfeus-eu.org/data/eida/>`_
 (EIDA) is to provide transparent access and services to high quality, seismic
 data across different data archives in Europe. In the context of the design
 of the `EIDA New Generation` (EIDA-NG) software we envision a future in which
